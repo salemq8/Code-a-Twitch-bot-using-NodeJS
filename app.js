@@ -6,11 +6,11 @@ const opts = {
     debug: true,
   },
   identity: {
-    username: "testlamebot_1",
-    password: "mq3nxgkpdirgvit7ck37gnkdenhsz4"
+    username: "1salembot",
+    password: "oauth:72n05rqe98ircqy0avvyglm6pfofww"
   },
   channels: [
-    "lonermoan",
+    "1salemq8",
   ]
 };
 
